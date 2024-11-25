@@ -1,0 +1,40 @@
+{
+    "custom/quicklink1": {
+        "format": " ",
+        "on-click": "~/.config/ml4w/settings/browser.sh",
+        "tooltip-format": "Open the browser"
+    },
+    "custom/quicklink2": {
+        "format": " ",
+        "on-click": "~/.config/ml4w/settings/filemanager.sh",
+        "tooltip-format": "Open the filemanager"
+    }, 
+    "custom/quicklink3": {
+        "format": " ",
+        "on-click": "alacritty",
+        "tooltip-format": "Open Terminal"
+    },
+    "custom/quicklink4": {
+        "format": " ",
+        "on-click": "code",
+        "tooltip-format": "Open VS Code"
+    },
+    "custom/quicklink5": {
+        "format": " ",
+        "on-click": "flatpak run com.spotify.Client",
+        "tooltip-format": "Open Spotify"
+    },
+    "custom/quicklinkempty": {
+    }, 
+    "group/quicklinks": {
+        "orientation": "horizontal",
+        "modules": [
+            "custom/quicklink1",
+            "custom/quicklink2",
+            "custom/quicklink3",
+            "custom/quicklink4",
+            "custom/quicklink5",
+            "custom/quicklinkempty"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+[
+    {
+        "key": "decoration:blur:popups",
+        "value": true
+    },
+    {
+        "key": "decoration:dim_inactive",
+        "value": true
+    },
+    {
+        "key": "decoration:dim_strength",
+        "value": 0.1
+    },
+    {
+        "key": "decoration:rounding",
+        "value": 10
+    },
+    {
+        "key": "decoration:inactive_opacity",
+        "value": 0.9
+    },
+    {
+        "key": "decoration:active_opacity",
+        "value": 0.9
+    },
+    {
+        "key": "decoration:shadow_ignore_window",
+        "value": true
+    },
+    {
+        "key": "general:border_size",
+        "value": 2
+    },
+    {
+        "key": "decoration:shadow_range",
+        "value": 4
+    },
+    {
+        "key": "decoration:blur:size",
+        "value": 3
+    },
+    {
+        "key": "animations:enabled",
+        "value": true
+    }
+]

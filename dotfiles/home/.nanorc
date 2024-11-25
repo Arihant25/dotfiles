@@ -1,0 +1,18 @@
+# Non-default settings
+set atblanks        # wrap line at blanks.
+set softwrap        # Enable softwrap of lines.
+set tabsize 4       # Sets tab-to-spaces size to 4.
+set tabstospaces    # Converts TAB key press to spaces.
+include "/usr/share/nano/*.nanorc" # Enables the syntax highlighting.
+set speller "aspell -x -c"         # Sets what spelling utility to use.
+set constantshow    # Displays useful information e.g. line number and position in the bottom bar.
+set linenumbers     # Lines are numbered.
+set casesensitive   # Case insensitive search.
+set autoindent      # A new line will have the same number of leading spaces as the previous one.
+set indicator       # Displays a scroll bar on the right that shows the position and size of the current view port.
+set minibar         # Displays file name and other information in the bottom bar. Removes top bar.
+# Shortcut key bindings
+bind ^C copy main       # CTRC+C - Copy
+bind ^V paste all       # CTRL+V - Paste
+bind ^F whereis all     # CTRL+F - Find
+bind ^S savefile main   # CTRL+S - Save
