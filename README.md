@@ -32,7 +32,9 @@ But first, a brief overview:
 | Note-taking | Obsidian |
 | Image to text | normcap |
 
-By the end of this guide, you'll have most of these installed and a system that looks like this:
+By the end of this guide, you'll have most of these installed and a system that looks somewhat like this:
+
+![Screenshot](screenshot.jpg)
 
 Now, let's get started.
 
